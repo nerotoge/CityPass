@@ -1,0 +1,111 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.so
+
+.Python
+build/
+develop-eggs/
+'dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+#PyInstaller logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nonsetests.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+*.mo
+*.pot
+
+
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+
+instance/
+.webassets-cache
+
+#Scrapy stuff:
+.scrapy
+
+#Sphinx documentaion
+
+docs/_build/
+
+#Pybuilder
+.pybuilder/
+target/
+
+#Jupyter Notebook
+.ipynb_checkpoints
+
+#IPython
+profile_default/
+iptyhon_config.py
+
+#pyenv
+.pdm.toml
+
+__pypackages__/
+celeryebeat-schedule
+celerybeat.pid
+
+#SageMath parsed files
+*.sage.py
+
+#Environments
+
+.ennv
+.venv
+env/
+ENV/
+env.bak/
+venv.bak
+askcsv_39
+
+#Spyder project settings
+.spyderproject
+.spyproject
+
+#Rope project settings
+.ropeproject
+
+#mkdocs documentation
+/site
+
+#pytype static type analyzer 
+.pytype/
+
+E#Cython debug symbols
+cython_debug/
+
+
